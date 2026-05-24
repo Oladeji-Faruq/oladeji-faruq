@@ -16,7 +16,7 @@ I am a passionate Data Analyst focused on exploring data, uncovering trends, and
 - Reporting & Insights
 
 ## My Project 
-- [Sales_performance_data] (....)
+- [Sales_performance_data](https://github.com/Oladeji-Faruq/Sales_performance_data)
 
 ## Currently Learning 
 - Advanced SQL
