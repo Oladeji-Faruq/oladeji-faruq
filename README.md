@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I am Oladeji Faruq Olamide 👋
 
-<!--
-**Oladeji-Faruq/oladeji-faruq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Data Analyst focused on exploring data, uncovering trends, and creating insightful visualizations that support decision-making.
 
-Here are some ideas to get you started:
+## Tools I work with
+- Microsoft Office Suites
+- SQL
+- Power BI
+- Google Workspace
+  
+## Skills
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
+- Dashboard Creation
+- Reporting & Insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Project 
+- [Sales_performance_data] (....)
+
+## Currently Learning 
+- Advanced SQL
+- Tableau
+- Python for Data Analysis
+
+## Goals
+Continuously improving my analytical skills and building impactful projects that solve real-world problems through data.
+
+## Let's Connect 
+[Linkedln](https://www.linkedin.com/in/oladeji-faruq/)
