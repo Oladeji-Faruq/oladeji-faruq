@@ -6,6 +6,7 @@ I am a passionate Data Analyst focused on exploring data, uncovering trends, and
 - Microsoft Office Suites
 - SQL
 - Power BI
+- Looker Studio
 - Google Workspace
   
 ## Skills
