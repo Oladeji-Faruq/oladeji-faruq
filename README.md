@@ -16,8 +16,9 @@ I am a passionate Data Analyst focused on exploring data, uncovering trends, and
 - Dashboard Creation
 - Reporting & Insights
 
-## My Project 
+## My Projects
 - [Sales_performance_data](https://github.com/Oladeji-Faruq/Sales_performance_data)
+- [Food Delivery Performance Data] (https://github.com/Oladeji-Faruq/Food-Delivery-Performance-Dashboard-)
 
 ## Currently Learning 
 - Advanced SQL
