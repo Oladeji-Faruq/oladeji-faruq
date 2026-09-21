@@ -19,6 +19,7 @@ I am a passionate Data Analyst focused on exploring data, uncovering trends, and
 ## My Projects
 - [Sales_performance_data](https://github.com/Oladeji-Faruq/Sales_performance_data)
 - [Food Delivery Performance Data](https://github.com/Oladeji-Faruq/Food-Delivery-Performance-Dashboard-)
+- [FIFA World Cup 2026 Player Performance Analysis](https://github.com/Oladeji-Faruq/FIFA-World-Cup-2026-Player-Performance-Analysis/blob/main/README.md)
 
 ## Currently Learning 
 - Advanced SQL
